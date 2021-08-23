@@ -66,6 +66,10 @@ a {
     transition: all 0.3s;
 }
 
+img {
+    mix-blend-mode: multiply;
+}
+
 .btn-icon {
     background-color: transparent;
     border: none;
